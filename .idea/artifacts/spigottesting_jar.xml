@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spigottesting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spigottesting_jar</output-path>
+    <root id="archive" name="spigottesting.jar">
+      <element id="module-output" name="spigottesting" />
+    </root>
+  </artifact>
+</component>

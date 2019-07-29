@@ -1,0 +1,6 @@
+name: Spigotprac
+version: ${project.version}
+main: com.dragon.spigotprac.spigotprac.Spigotprac
+api-version: 1.13
+authors: [Dragonslayerelf]
+description: Spigot Practice

@@ -1,0 +1,4 @@
+name: Spigotprac3
+version: ${project.version}
+main: com.dragon.spigotprac3.Spigotprac3
+api-version: 1.13

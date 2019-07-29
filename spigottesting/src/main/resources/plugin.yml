@@ -1,0 +1,15 @@
+name: Spigottesting
+version: ${project.version}
+main: com.dragonslayerelf.spigottesting.spigottesting.Spigottesting
+api-version: 1.13
+description: Testing
+commands:
+  healme:
+    description: heals
+    usage: /<command> <number>
+  setrace:
+    description: sets race stats
+    usage: /<command> <race>
+  getLoredItem:
+    description: gets an item
+    usage: /<command>

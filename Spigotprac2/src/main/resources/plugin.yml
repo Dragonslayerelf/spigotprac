@@ -1,0 +1,5 @@
+name: Spigotprac2
+version: ${project.version}
+main: com.dragon.spigotprac2.Spigotprac2
+api-version: 1.13
+authors: [Dragonslayerelf]

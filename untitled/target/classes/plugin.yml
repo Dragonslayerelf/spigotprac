@@ -1,0 +1,4 @@
+name: Spigotprac
+version: 1.0-SNAPSHOT
+main: com.dragon.spigotprac.Spigotprac
+api-version: 1.13
